@@ -1,4 +1,4 @@
-NUS bus server code
+NUS bus server
 ==============================
 
 Handle queries from client app on Android.
