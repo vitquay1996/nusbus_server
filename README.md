@@ -9,7 +9,6 @@ Handle queries from client app on Android.
 - To check cron, type on terminal
 ```
 crontab -e
-
 ```
 - Line added 
 ```
